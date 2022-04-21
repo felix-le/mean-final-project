@@ -1,0 +1,6 @@
+{
+  "/api/*": {
+    "target": "https://mean-final-project-be.herokuapp.com",
+    "secure": false
+  }
+}
